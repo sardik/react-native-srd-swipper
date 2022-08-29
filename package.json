@@ -1,0 +1,22 @@
+{
+  "name": "react-native-srd-swipper",
+  "version": "1.0.0",
+  "description": "init first",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sardik/react-native-srd-swipper.git"
+  },
+  "keywords": [
+    "swipper"
+  ],
+  "author": "sardi",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sardik/react-native-srd-swipper/issues"
+  },
+  "homepage": "https://github.com/sardik/react-native-srd-swipper#readme"
+}
