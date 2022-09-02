@@ -21,6 +21,8 @@ const SardiSwipperPagination = (props) => {
     style,
   } = props;
 
+  // test update
+
   const loopInterpolate = ({ arrGroup, activeValue, baseValue }) => {
     if (!Array.isArray(data)) return arrGroup;
     for (let i = 0; i < data.length; i++) {
